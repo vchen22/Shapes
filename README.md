@@ -1,4 +1,4 @@
-Program Description
+Program Description: 
 The Shape class is a general blueprint of what properties a general shape
 should have. All classes under the Shape class also takes in the properties
 Shape has but will also have its own specific properties that differentiate
